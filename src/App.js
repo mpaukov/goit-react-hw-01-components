@@ -1,7 +1,7 @@
 import Profile from './components/Profile';
 import user from './data/user.json';
 
-export default function App() {
+function App() {
   return (
     <div>
       <Profile
@@ -14,3 +14,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;
