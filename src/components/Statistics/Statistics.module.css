@@ -24,7 +24,7 @@
 }
 
 .item {
-  flex-basis: calc(100% / 4);
+  flex-basis: calc(100% / 5);
   text-align: center;
   padding: 10px;
   border: 1px solid #9c9c9c;
